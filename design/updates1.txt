@@ -1,0 +1,5 @@
+Updates:
+- added audio file playback
+- added music composition playback
+- added live audio detection
+- added clef and whole note images
